@@ -1,0 +1,13 @@
+form{
+    background: black;
+    font-size: 40px;
+    color: white;
+}
+input{
+    width: 250px;
+    height: 20px;
+}
+table tr td{
+   margin: 20px 0;
+   border: 1px solid;     
+}
